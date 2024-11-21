@@ -1,0 +1,1000 @@
+ 1016  ls
+ 1017  cd Crypto\ Currency/
+ 1018  python3 manage.py runserver
+ 1019  python3 manage.py
+ 1020  ranger
+ 1021  cd Documents/
+ 1022  ls
+ 1023  cd Crypto\ Currency/
+ 1024  python3 manage.py runserver
+ 1025  ranger
+ 1026  ranger
+ 1027  python3 manage.py runserver
+ 1028  clear
+ 1029  python3 manage.py runserver
+ 1030  clear
+ 1031  python3 manage.py runserver
+ 1032  python3 manage.py runserver 8080
+ 1033  python3 manage.py runserver
+ 1034  python manage.py makemigrations
+ 1035  python manage.py migrate
+ 1036  python3 manage.py migrate
+ 1037  python manage.py makemigrations
+ 1038  python3 manage.py makemigrations
+ 1039  pip install django tensorflow pandas numpy matplotlib
+ 1040  ranger
+ 1041  python3 manage.py runserver 8080
+ 1042  clear
+ 1043  ranger
+ 1044  python3 manage.py
+ 1045  python3 manage.py runserver
+ 1046  ranger
+ 1047  cd Crypto\ Currency/
+ 1048  python3 manage.py runserver
+ 1049  ls
+ 1050  ranger
+ 1051  pyhton3 manage.py runserver
+ 1052  python3 manage.py runserver
+ 1053  clear
+ 1054  python3 manage.py runserver
+ 1055  cd Documents/
+ 1056  cd Crypto\ Currency/
+ 1057  python3 manage.py runserver
+ 1058  ranger
+ 1059  pandas --version
+ 1060  tensorflow --version
+ 1061  pip install django
+ 1062  pip install pandas
+ 1063  pip install tensorflow
+ 1064  pip install numpy
+ 1065  pip install matplotlib
+ 1066  pip install scikit-learn
+ 1067  ranger
+ 1068  clear
+ 1069  python3 -m venv crypto_env
+ 1070  source crypto_env/bin/activate
+ 1071  pip install -r requirements.txt
+ 1072  pip install tensorflow
+ 1073  deactivate 
+ 1074  clear
+ 1075  ranger
+ 1076  clear
+ 1077  python manage.py migrate
+ 1078  python3 manage.py migrate
+ 1079  cleaar
+ 1080  clear
+ 1081  pip install django pandas tensorflow matplotlib jupyter graphene-django
+ 1082  python manage.py migrate      # Apply database migrations
+ 1083  python manage.py createsuperuser  # Create an admin user
+ 1084  python3 manage.py migrate
+ 1085  python manage.py runserver
+ 1086  python3 manage.py runserver
+ 1087  python3 manage.py runserver 127.0.0.1:8080
+ 1088  python3 manage.py runserver 1
+ 1089  clear
+ 1090  python3 manage.py runserver
+ 1091  sudo apt install nautilusfilemanager
+ 1092  sudo snap install nautilusfilemanager --edge
+ 1093  sudo apt install Thunar
+ 1094  nvim f.sh
+ 1095  chmod +x f.sh
+ 1096  ./f.sh
+ 1097  scp f.sh rpi4b@192.168.41.65:
+ 1098  ranger
+ 1099  scp f.sh rpi4b@192.168.41.65:
+ 1100  clear
+ 1101  nvim
+ 1102  sudo apt install nautilus
+ 1103  sudo apt install dolphin
+ 1104  ./dolphin
+ 1105  sudo apt remove dolphin
+ 1106  sudo apt install thunar
+ 1107  sudo apt install pcmanfm
+ 1108  sudo apt remove pcmanfm
+ 1109  sudo apt install nemo
+ 1110  sudo apt install krusader
+ 1111  sudo apt remove pcmanfm
+ 1112  sudo apt autoremove pcmanfm
+ 1113  sudo apt remove pcmanfm
+ 1114  sudo apt remove  thunar
+ 1115  sudo apt remove dolphin
+ 1116  sudo apt remove nemo
+ 1117  exit
+ 1118  ls
+ 1119  clear 
+ 1120  pwd
+ 1121  ranger
+ 1122  python3 TrainModel.py 
+ 1123  ls
+ 1124  python3 RunModel.py 
+ 1125  clear
+ 1126  python3 RunModel.py 
+ 1127  pip install numpy==1.24.3
+ 1128  python3 RunModel.py 
+ 1129  sudo apt-get install tensorrt
+ 1130  sudo apt update && sudo apt upgrade
+ 1131  sudo apt-get install tensorrt
+ 1132  sudo apt install tensorrt
+ 1133  sudo apt-get install libnvinfer-dev
+ 1134  sudo apt-get install python3-libnvinfer
+ 1135  python3 RunModel.py 
+ 1136  ranger
+ 1137  ls
+ 1138  ranger
+ 1139  clear
+ 1140  pwd
+ 1141  ls
+ 1142  pip install numpy nsepy yfinance tensorflow scikit-learn
+ 1143  python3 lstm/TrainModel.py
+ 1144  clear
+ 1145  python3 lstm/TrainModel.py
+ 1146  ranger
+ 1147  cd Documents/
+ 1148  ranger
+ 1149  python3 RunModel.py 
+ 1150  cd ..
+ 1151  pwd
+ 1152  cd ..
+ 1153  nvim setup.sh
+ 1154  ls
+ 1155  cd ..
+ 1156  ls
+ 1157  ranger
+ 1158  git clone https://github.com/verilog-to-routing/vtr-verilog-to-routing.git ~/pygmy-dev/tools/vtr-verilog-to-routing
+ 1159  cd vtr-verilog-to-routing/
+ 1160  mkdir build
+ 1161  cd build
+ 1162  cmake ..
+ 1163  make
+ 1164  make -j4
+ 1165  sudo apt install build-essential cmake g++ pkg-config bison flex libboost-all-dev libtbb-dev libssl-dev zlib1g-dev
+ 1166  ranger
+ 1167  cmake
+ 1168  make -j4
+ 1169  ranger
+ 1170  cmake
+ 1171  make
+ 1172  cd ..
+ 1173  make
+ 1174  cMAKE
+ 1175  ls
+ 1176  cd build
+ 1177  make -j4
+ 1178  make
+ 1179  pwd
+ 1180  ranger
+ 1181  ./setup.sh
+ 1182  sudo apt-get install libtbb-dev
+ 1183  -DTBB_DIR=/path/to/tbb
+ 1184  cd /home/ashishroy007/pygmy-dev/tools/vtr-verilog-to-routing
+ 1185  rm -rf build/*
+ 1186  mkdir build
+ 1187  cd build
+ 1188  cmake ..
+ 1189  make
+ 1190  sudo apt-get install libtbb-dev
+ 1191  find /usr/include -name task_scheduler_init.h
+ 1192  sudo apt update
+ 1193  sudo apt install libtbb-dev
+ 1194  dpkg -l | grep libtbb
+ 1195  ranger
+ 1196  ./setup.sh
+ 1197  ranger
+ 1198  ls
+ 1199  chmod +x setup.sh
+ 1200  ./setup.sh
+ 1201  clear
+ 1202  ./setup.sh
+ 1203  clear
+ 1204  ./setup.sh
+ 1205  vpr -h
+ 1206  vtr -h
+ 1207  clear
+ 1208  ranger
+ 1209  cd Desktop/
+ 1210  ranger
+ 1211  git clone https://github.com/gadepall/gadepall.github.io
+ 1212  ranger
+ 1213  sudo apt install realvnc-vnc-server
+ 1214  sudo apt-get install -f
+ 1215  vncserver
+ 1216  cd ~
+ 1217  ls
+ 1218  /home/ashishroy007/VNC-Viewer-7.12.1-Linux-x64
+ 1219  cd ~
+ 1220  cd VNC-Viewer-7.12.1-Linux-x64/
+ 1221  tar -xvzf VNC-Viewer-7.12.1-Linux-x64.tar.gz
+ 1222  ls
+ 1223  cd ~
+ 1224  chmod +x VNC-Viewer-7.12.1-Linux-x64
+ 1225  ./VNC-Viewer-7.12.1-Linux-x64/
+ 1226  ranger
+ 1227  sudo apt install realvnc-server
+ 1228  sudo dpkg --configure -a
+ 1229  sudo apt install realvnc-server
+ 1230  sudo apt remove --purge realvnc-vnc-viewer
+ 1231  sudo apt install realvnc-vnc-viewer
+ 1232  sudo apt install realvnc-server
+ 1233  sudo apt remove realvnc-server
+ 1234  sudo dpkg --remove --force-remove-reinstreq realvnc-vnc-viewer
+ 1235  cd /home/ashishroy007/Downloads
+ 1236  sudo dpkg -i VNC-Viewer-7.12.1-Linux-x64.deb
+ 1237  ls
+ 1238  sudo dpkg -i VNC-Viewer-7.12.1-Linux-x64.deb
+ 1239  sudo apt-get install -f
+ 1240  vncviewer --version
+ 1241  sudo dpkg -i VNC-Viewer-*.deb
+ 1242  sudo dpkg -i VNC-Viewer-7.12.1-Linux-x64.deb
+ 1243  chmod +x VNC-Connect-Installer-2.3.0-Linux-x64
+ 1244  ./VNC-Connect-Installer-2.3.0-Linux-x64 
+ 1245  sudo apt install realvnc-server
+ 1246  ls
+ 1247  sudo apt update && sudo apt upgrade -y
+ 1248  sudo apt install -y openssh-server sshpass
+ 1249  sudo apt install -y build-essential libssl-dev libffi-dev python3-dev bison flex git     tcl-dev tcl tcl-tclreadline libreadline-dev autoconf libtool make automake     texinfo pkg-config libusb-1.0-0 libusb-1.0-0-dev gcc-arm-none-eabi     libnewlib-arm-none-eabi telnet python3 apt-utils libxslt-dev python3-lxml     python3-simplejson cmake curl python3-setuptools python3-pip
+ 1250  cd ~
+ 1251  # Clone the pygmy-dev repository
+ 1252  git clone --recursive https://github.com/optimuslogic/pygmy-dev
+ 1253  mkdir -p ~/symbiflow
+ 1254  export INSTALL_DIR=~/symbiflow
+ 1255  cp ~/Downloads/arch.tar.gz ~/arch.tar.gz  # Adjust if downloaded elsewhere
+ 1256  tar -C $INSTALL_DIR -xvf ~/arch.tar.gz
+ 1257  export PATH="$INSTALL_DIR/quicklogic-arch-defs/bin:$INSTALL_DIR/quicklogic-arch-defs/bin/python3:$PATH"
+ 1258  cd ~/pygmy-dev/tools/quicklogic-fasm
+ 1259  # Edit requirements.txt as specified
+ 1260  sed -i 's|.*fasm.*|# -e git+https://github.com/symbiflow/fasm.git#egg=fasm|' requirements.txt
+ 1261  sed -i 's|.*fasm-utils.*|# -e git+https://github.com/antmicro/quicklogic-fasm-utils.git#egg=fasm-utils|' requirements.txt
+ 1262  pip3 install -r requirements.txt
+ 1263  python3 setup.py install
+ 1264  pip3 install -r requirements.txt
+ 1265  pdata/data/com.termux/files-distro login ubuntu-20.04
+ 1266  apt update 
+ 1267  apt upgrade
+ 1268  #Install ssh-server
+ 1269  apt install openssh-server sshpass
+ 1270  # Install arm toolchain and hardware tools
+ 1271  apt install build-essential libssl-dev libffi-dev python3-dev bison flex git tcl-dev tcl tcl-tclreadline libreadline-dev  autoconf libtool make automake texinfo pkg-config libusb-1.0-0 libusb-1.0-0-dev gcc-arm-none-eabi libnewlib-arm-none-eabi telnet python3 apt-utils libxslt-dev python3-lxml python3-simplejson cmake curl  python3-setuptools python3-pip
+ 1272  #Pull all necessary tools
+ 1273  cd  /data/data/com.termux/files/home/
+ 1274  #Need to check if pygmy-sdk can be reduced by keeping only the basic hardware
+ 1275  #components.
+ 1276  git clone --recursive https://github.com/optimuslogic/pygmy-dev
+ 1277  #Create directory for building the toolchain
+ 1278  mkdir -p /data/data/com.termux/files/home/symbiflow
+ 1279  export  INSTALL_DIR=/data/data/com.termux/files/home/symbiflow
+ 1280  #Download and extract symbiflow
+ 1281  https://iith-my.sharepoint.com/:u:/g/personal/gadepall_ee_iith_ac_in/Ebot5QHEYXBAo-7n4hnvJu0B8vMrTIdj_COHJC2cmDY1ww?e=bqDxHI
+ 1282  cp arch.tar.gz /data/data/com.termux/files/home/arch.tar.gz
+ 1283  tar -C $INSTALL_DIR  -xvf /data/data/com.termux/files/home/arch.tar.gz
+ 1284  export PATH="$INSTALL_DIR/quicklogic-arch-defs/bin:$INSTALL_DIR/quicklogic-arch-defs/bin/python3:$PATH"
+ 1285  #Install fasm 
+ 1286  cd /data/data/com.termux/files/home/pygmy-dev/tools/quicklogic-fasm
+ 1287  nvim requirements.txt
+ 1288  #modify the lines so that they look like
+ 1289  -e git+https://github.com/symbiflow/fasm.git#egg=fasm
+ 1290  -e git+https://github.com/antmicro/quicklogic-fasm-utils.git#egg=fasm-utils
+ 1291  pip3 install -r requirements.txt
+ 1292  python3 setup.py install
+ 1293  cd /data/data/com.termux/files/home/
+ 1294  #Install yosys
+ 1295  cd /data/data/com.termux/files/home/pygmy-dev/tools/quicklogic-yosys
+ 1296  make config-gcc
+ 1297  make -j4 install PREFIX=$INSTALL_DIR
+ 1298  cd /data/data/com.termux/files/home/
+ 1299  #install yosys-symbiflow
+ 1300  cd /data/data/com.termux/files/home/pygmy-dev/tools/yosys-symbiflow-plugins
+ 1301  export PATH=$INSTALL_DIR/bin:$PATH
+ 1302  make -j4 install
+ 1303  cd /data/data/com.termux/files/home/
+ 1304  #install vtr
+ 1305  cd /data/data/com.termux/files/home/pygmy-dev/tools/vtr-verilog-to-routing
+ 1306  make -j4
+ 1307  cd /data/data/com.termux/files/home/
+ 1308  cp /data/data/com.termux/files/home/pygmy-dev/tools/vtr-verilog-to-routing/build/vpr/vpr $INSTALL_DIR/bin
+ 1309  cp /data/data/com.termux/files/home/pygmy-dev/tools/vtr-verilog-to-routing/build/utils/fasm/genfasm $INSTALL_DIR/bin
+ 1310  #add path to .bashrc
+ 1311  nvim ~/.bashrc
+ 1312  #paste the following 3 lines at the end of the file
+ 1313  export  INSTALL_DIR=/data/data/com.termux/files/home/symbiflow
+ 1314  export PATH="$INSTALL_DIR/quicklogic-arch-defs/bin:$INSTALL_DIR/quicklogic-arch-defs/bin/python3:$PATH"
+ 1315  export PATH=/data/data/com.termux/files/home/symbiflow/bin:$PATH
+ 1316  #Ctrl+X save and exit.  reboot for the settings to be updated.
+ 1317  #reboot
+ 1318  #After login
+ 1319  cd /data/data/com.termux/files/home/
+ 1320  #Check the executables on Path
+ 1321  vpr -h
+ 1322  yosys -h
+ 1323  qlfasm -h
+ 1324  ql_symbiflow -h
+ 1325  #Test installation
+ 1326  cd $INSTALL_DIR/quicklogic-arch-defs/tests/counter_16bit
+ 1327  ql_symbiflow -compile -d ql-eos-s3 -P pd64 -v counter_16bit.v -t top -p chandalar.pcf -dump binary
+ 1328  #top.bin must be generated successfully 
+ 1329  #Blink program
+ 1330  cd /data/data/com.termux/files/home/
+ 1331  mkdir fpga-examples
+ 1332  cd fpga-examples
+ 1333  svn co https://github.com/gadepall/vaman/trunk/fpga/setup/codes/blink
+ 1334  ql_symbiflow -compile -src /data/data/com.termux/files/home/fpga-examples/blink -d ql-eos-s3 -P PU64 -v helloworldfpga.v -t helloworldfpga -p quickfeather.pcf -dump binary
+ 1335  #helloworldfpga.bin must be generated successfully in /data/data/com.termux/files/home/fpga-examples/blink
+ 1336  #Transfer .bin file to RPI
+ 1337  scp /data/data/com.termux/files/home/fpga-examples/blink/helloworldfpga.bin pi@192.168.0.114:
+ 1338  #Suitably modify the above ip address
+ 1339  #On RPi
+ 1340  git clone --recursive https://github.com/QuickLogic-Corp/TinyFPGA-Programmer-Application.git
+ 1341  sudo pip3 install tinyfpgab pyserial
+ 1342  sudo reboot
+ 1343  # Then execute the following 
+ 1344  python3 /home/pi/TinyFPGA-Programmer-Application/tinyfpga-programmer-gui.py --port /dev/ttyACM0 --appfpga /home/pi/helloworldfpga.bin --mode fpga
+ 1345  #End FPGA hello world
+ 1346  # Example (replace with the correct file)
+ 1347  cp /path/to/arch.tar.gz ~/arch.tar.gz
+ 1348  tar -C $INSTALL_DIR -xvf ~/arch.tar.gz
+ 1349  source ~/.bashrc
+ 1350  cd ~/pygmy-dev/tools/quicklogic-yosys
+ 1351  make config-gcc
+ 1352  make -j4 install PREFIX=$INSTALL_DIR
+ 1353  make config-gcc
+ 1354  cd ~/pygmy-dev/tools/quicklogic-yosys
+ 1355  make config-gcc
+ 1356  make -j4 install PREFIX=$INSTALL_DIR
+ 1357  ls
+ 1358  vi freduce
+ 1359  sat/freduce.c
+ 1360  vi freduce.c
+ 1361  ls
+ 1362  cd libs/
+ 1363  ls
+ 1364  cd ..
+ 1365  freduce.cc
+ 1366  make -j4 install PREFIX=$INSTALL_DIR
+ 1367  cd ~/pygmy-dev/tools/yosys-symbiflow-plugins
+ 1368  make -j4 install
+ 1369  cd ~/pygmy-dev/tools/vtr-verilog-to-routing
+ 1370  make -j4
+ 1371  ls
+ 1372  make -j4 VERBOSE=1 install PREFIX=$INSTALL_DIR
+ 1373  make clean
+ 1374  make -j4 install PREFIX=$INSTALL_DIR
+ 1375  chmod +x setup.sh 
+ 1376  sudo bash setup.sh
+ 1377  make VERBOSE=1
+ 1378  make -j4 install PREFIX=$INSTALL_DIR
+ 1379  sudo bash setup.sh
+ 1380  chmod +x setup.sh
+ 1381  sudo bash setup.sh
+ 1382  sudo apt update -y 
+ 1383  sudo apt upgrade -y
+ 1384  cd Desktop/
+ 1385  ls
+ 1386  nvim zuc.py
+ 1387  cd Biometric_Attendance/
+ 1388  ls
+ 1389  cd Codes
+ 1390  cd codes
+ 1391  ls
+ 1392  cd Registration_Fingreprints/
+ 1393  ls
+ 1394  cd src/
+ 1395  ls
+ 1396  nvi  fp_registration.cpp 
+ 1397  nvim  fp_registration.cpp 
+ 1398  ranger
+ 1399  cd /home/ashishroy007/Desktop/fpga/abc/CMakeFiles/
+ 1400  ls
+ 1401  cd 
+ 1402  ls
+ 1403  cd ~
+ 1404  ls
+ 1405  ranger
+ 1406  git clone https://github.com/gadepall/fwc-1
+ 1407  cd fwc-1
+ 1408  cd scripts
+ 1409  ls
+ 1410  chmod+x setup.sh
+ 1411  chmod +x setup.sh
+ 1412  ./setup.sh
+ 1413  make -j4
+ 1414  make 
+ 1415  ls
+ 1416  ranger
+ 1417  cd vtr-verilog-to-routing/
+ 1418  make
+ 1419  pwd
+ 1420  make clean
+ 1421  make 
+ 1422  make clean
+ 1423  make
+ 1424  make clean
+ 1425  make
+ 1426  whoami
+ 1427  cd ..
+ 1428  cd ~
+ 1429  cd /home/ashishroy007/Desktop/fpga/pygmy-dev/tools/vtr-verilog-to-routing
+ 1430  ls
+ 1431  cd build/
+ 1432  ls
+ 1433  cd ..
+ 1434  cd libs
+ 1435  cd EXTERNAL/libcatch/
+ 1436  ls
+ 1437  nvim catch.hpp
+ 1438  sudo apt install openssh-server sshpass
+ 1439  sudo apt install build-essential libssl-dev libffi-dev python3-dev bison flex git tcl-dev tcl tcl-tclreadline libreadline-dev autoconf libtool make automake texinfo pkg-config libusb-1.0-0 libusb-1.0-0-dev gcc-arm-none-eabi libnewlib-arm-none-eabi telnet python3 apt-utils libxslt-dev python3-lxml python3-simplejson cmake curl python3-setuptools python3-pip
+ 1440  cd /home/$(whoami)/Desktop/fpga
+ 1441  cd /home/$(whoami)/Desktop/mkdir fpga
+ 1442  cd /home/$(whoami)/Desktop/
+ 1443  mkdir fpga
+ 1444  cd fpga
+ 1445  git clone --recursive https://github.com/optimuslogic/pygmy-dev
+ 1446  mkdir -p /home/$(whoami)/Desktop/fpga/symbiflow
+ 1447  cd /home/$(whoami)/Desktop/fpga/symbiflow
+ 1448  export INSTALL_DIR=/home/$(whoami)/Desktop/fpga/symbiflow
+ 1449  wget https://iith-my.sharepoint.com/:u:/g/personal/gadepall_ee_iith_ac_in/Ebot5QHEYXBAo-7n4hnvJu0B8vMrTIdj_COHJC2cmDY1ww?e=bqDxHI
+ 1450  tar -C $INSTALL_DIR -xvf /home/$(whoami)/Desktop/fpga/arch.tar.gz
+ 1451  ls
+ 1452  tar -C $INSTALL_DIR -xvf /home/$(whoami)/Desktop/fpga/arch.tar.gz
+ 1453  export PATH="$INSTALL_DIR/quicklogic-arch-defs/bin:$INSTALL_DIR/quicklogic-arch-defs/bin/python3:$PATH"
+ 1454  [200~tar -C $INSTALL_DIR -xvf /home/$(whoami)/Desktop/fpga/arch.tar.gz
+ 1455  clear
+ 1456  tar -C $INSTALL_DIR -xvf /home/$(whoami)/Desktop/fpga/arch.tar.gz
+ 1457  export PATH="$INSTALL_DIR/quicklogic-arch-defs/bin:$INSTALL_DIR/quicklogic-arch-defs/bin/python3:$PATH"
+ 1458  cd /home/$(whoami)/Desktop/fpga/pygmy-dev/tools/quicklogic-fasm
+ 1459  nvim requirements.txt
+ 1460  sudo pip3 install -r requirements.txt
+ 1461  python3 setup.py install
+ 1462  sudo python3 setup.py install
+ 1463  cd /home/$(whoami)/Desktop/fpga
+ 1464  cd /home/$(whoami)/Desktop/fpga/pygmy-dev/tools/quicklogic-yosys
+ 1465  make config-gcc
+ 1466  make -j4 install PREFIX=$INSTALL_DIR
+ 1467  ls
+ 1468  cd passes
+ 1469  cd sat
+ 1470  nvim freduce.cc
+ 1471  cd ..
+ 1472  make -j4 install PREFIX=$INSTALL_DIR
+ 1473  cd /home/$(whoami)/Desktop/fpga
+ 1474  cd /home/$(whoami)/Desktop/fpga/pygmy-dev/tools/yosys-symbiflow-plugins
+ 1475  export PATH=$INSTALL_DIR/bin:$PATH
+ 1476  make -j4 install
+ 1477  cd /home/$(whoami)/Desktop/fpga
+ 1478  cd /home/$(whoami)/Desktop/fpga/pygmy-dev/tools/vtr-verilog-to-routing
+ 1479  make -j4
+ 1480  make clean
+ 1481  make 
+ 1482  /home/ashishroy007/Desktop/fpga/pygmy-dev/tools/vtr-verilog-to-routing/libs/EXTERNAL/libargparse/src/argparse.cpp
+ 1483  cd libs
+ 1484  cd EXTERNAL/libargparse/src/argparse
+ 1485  cd EXTERNAL/libargparse/src/
+ 1486  ls
+ 1487  nvim argparse.cpp
+ 1488  cd /Desktop/fpga/pygmy-dev/tools/vtr-verilog-to-routing
+ 1489  cd ..
+ 1490  make 
+ 1491  ranger
+ 1492  cd zuc_prn_task/
+ 1493  nvim main.c
+ 1494  rangwr
+ 1495  rangaer
+ 1496  ranger
+ 1497  chmod +x root
+ 1498  cd ..
+ 1499  ls
+ 1500  cd root
+ 1501  sudo cd root
+ 1502  sudo ./setup.sh
+ 1503  ./setup.sh
+ 1504  make VERBOSE=1
+ 1505  export LD_LIBRARY_PATH=/path/to/dependencies:$LD_LIBRARY_PATH
+ 1506  ranger
+ 1507  nano setup.sh 
+ 1508  chmod +x setup.sh
+ 1509  ./setup.sh
+ 1510  ranger
+ 1511  rm -rf fpga
+ 1512  ranger
+ 1513  make -j4
+ 1514  git submodule init
+ 1515  git submodule update
+ 1516  rm -rf build
+ 1517  mkdir build
+ 1518  cd build
+ 1519  cmake -DCMAKE_BUILD_TYPE=release -G 'Unix Makefiles' /home/ashishroy007/Desktop/fpga/pygmy-dev/tools/vtr-verilog-to-routing
+ 1520  make -j4
+ 1521  cd ..
+ 1522  make 
+ 1523  clear
+ 1524  cd ..
+ 1525  cd ''
+ 1526  cd ..
+ 1527  cd  ..
+ 1528  cd Desktop/
+ 1529  rm -f fpga
+ 1530  ranger
+ 1531  git clone https://github.com/catchorg/Catch2.git
+ 1532  ranger
+ 1533  make -j4
+ 1534  rm -rf build
+ 1535  mkdir build
+ 1536  cd build
+ 1537  cmake -DCMAKE_BUILD_TYPE=release ..
+ 1538  make -j4
+ 1539  rm -rf ~/Desktop/fpga/pygmy-dev/tools/vtr-verilog-to-routing/libs/EXTERNAL/libcatch
+ 1540  git clone https://github.com/catchorg/Catch2.git
+ 1541  cp -r Catch2/single_include ~/Desktop/fpga/pygmy-dev/tools/vtr-verilog-to-routing/libs/EXTERNAL/libcatch
+ 1542  ls
+ 1543  rm catch2
+ 1544  rm Catch2
+ 1545  rm -rf Catch2
+ 1546  git clone https://github.com/catchorg/Catch2.git
+ 1547  cd Catch2
+ 1548  ls
+ 1549  cd ~/Catch2
+ 1550  ranger
+ 1551  sudo find / -type d -name "pygmy-dev"
+ 1552  sudo find / -type d -name "symbiflow"
+ 1553  sudo find / -type d -name "symbiflow" 2>/dev/null
+ 1554  sudo find / -type d -name "symbiflow"
+ 1555  sudo updatedb
+ 1556  locate symbiflow
+ 1557  sudo apt install plocate
+ 1558  sudo find / -type d -name "symbiflow"
+ 1559  sudo find / -type d -name "symbiflow" 2>/dev/null
+ 1560  sudo find / -type d -name "symbiflow"
+ 1561  sudo rm -r /run/user/1000/doc/symbiflow_to_delete
+ 1562  sudo chmod -R 777 /run/user/1000/doc/symbiflow_to_delete
+ 1563  sudo rm -r /run/user/1000/doc/symbiflow_to_delete
+ 1564  sudo apt update && sudo apt upgrade
+ 1565  sudo apt install openssh-server sshpass
+ 1566  sudo apt install build-essential libssl-dev libffi-dev python3-dev bison flex git tcl-dev tcl tcl-tclreadline libreadline-dev autoconf libtool make automake texinfo pkg-config libusb-1.0-0 libusb-1.0-0-dev gcc-arm-none-eabi libnewlib-arm-none-eabi telnet python3 apt-utils libxslt-dev python3-lxml python3-simplejson cmake curl python3-setuptools python3-pip
+ 1567  cd /home/$(whoami)
+ 1568  pwd
+ 1569  git clone --recursive https://github.com/optimuslogic/pygmy-dev
+ 1570  ls
+ 1571  mv -rf pygmy.dev
+ 1572  rm -rf pygmy-dev/
+ 1573  clear
+ 1574  sudo apt update 
+ 1575  sudo apt upgrade
+ 1576  sudo apt install openssh-server sshpass
+ 1577  sudo apt install build-essential libssl-dev libffi-dev python3-dev bison flex git tcl-dev tcl tcl-tclreadline libreadline-dev autoconf libtool make automake texinfo pkg-config libusb-1.0-0 libusb-1.0-0-dev gcc-arm-none-eabi libnewlib-arm-none-eabi telnet python3 apt-utils libxslt-dev python3-lxml python3-simplejson cmake curl python3-setuptools python3-pip
+ 1578  cd /home/$(whoami)
+ 1579  git clone --recursive https://github.com/optimuslogic/pygmy-dev
+ 1580  pwd
+ 1581  ranger
+ 1582  ls -a
+ 1583  rm .gitignore 
+ 1584  ranger
+ 1585  ls -a
+ 1586  ranger
+ 1587  git clone https://github.com/gadepall/fwc-1
+ 1588  cd fwc-1/scripts
+ 1589  chmod +x setup.sh
+ 1590  bash setup.sh
+ 1591  chmod +x setup.sh
+ 1592  sudo bash setup.sh
+ 1593  make clean 
+ 1594  make
+ 1595  make -j4
+ 1596  chmod +x setup.sh
+ 1597  sudo apt update
+ 1598  sudo apt upgrade
+ 1599  sudo apt install openssh-server sshpass build-essential libssl-dev libffi-dev python3-dev bison flex git tcl-dev tcl tcl-tclreadline libreadline-dev  autoconf libtool make automake texinfo pkg-config libusb-1.0-0 libusb-1.0-0-dev gcc-arm-none-eabi libnewlib-arm-none-eabi telnet python3 apt-utils libxslt-dev cmake curl python3-pip python3-venv -y
+ 1600  bash setup.h
+ 1601  sudo bash setup.h
+ 1602  sudo bash setup.sh
+ 1603  sudo bash setup-2.sh
+ 1604  ls
+ 1605  pwd
+ 1606  chmod +x setup-2.sh
+ 1607  sudo setup-2.sh
+ 1608  sudo ./setup.sh
+ 1609  sudo ./setup-2.sh
+ 1610  ranger
+ 1611  git clone https://github.com/gadepall/fwc-1
+ 1612  ranger
+ 1613  sudo ./setup-2.sh
+ 1614  sudo ./setup.sh
+ 1615  ranger
+ 1616  sudo ./setup.sh
+ 1617  sudo ./setup-2.sh
+ 1618  ls
+ 1619  ranger
+ 1620  sudo rm -rf tools
+ 1621  ls
+ 1622  sudo rm -rf pygmy-sdk/
+ 1623  ls
+ 1624  ls -a 
+ 1625  sudo rm -rf .git
+ 1626  ls
+ 1627  cd ..
+ 1628  sufo rm -rf pygmy-dev/
+ 1629  sudo rm -rf pygmy-dev/
+ 1630  sudo bash setup.sh
+ 1631  ranger
+ 1632  clear
+ 1633  nvim fpga.sh
+ 1634  chmod +x fpga.sh
+ 1635  sudo ./fpga.sh
+ 1636  ranger
+ 1637  cd /home/$(whoami)
+ 1638  git clone --recursive https://github.com/optimuslogic/pygmy-dev
+ 1639  ssh rpi4b@192.168.166.65
+ 1640  ranger
+ 1641  ls
+ 1642  cd Desktop/
+ 1643  ls
+ 1644  ranger
+ 1645  ranger
+ 1646  ranger
+ 1647  cd ..
+ 1648  git add .
+ 1649  git pull
+ 1650  git commit -m "updated scripts"
+ 1651  git push
+ 1652  make clean
+ 1653  make
+ 1654  /home/ashishroy007/pygmy-dev/tools/vtr-verilog-to-routing/libs/EXTERNAL/libcatch
+ 1655  cd /home/ashishroy007/pygmy-dev/tools/vtr-verilog-to-routing/libs/EXTERNAL/libcatch
+ 1656  nvim catch.hpp
+ 1657  pwd
+ 1658  cd ..
+ 1659  make clean
+ 1660  make
+ 1661  cd /home/ashishroy007/pygmy-dev/tools/vtr-verilog-to-routing/libs/EXTERNAL/libcatch/
+ 1662  cd ..
+ 1663  make -j4
+ 1664  make VERBOSE=1
+ 1665  make -j4
+ 1666  make 
+ 1667  make -j4
+ 1668  make Verbose=1
+ 1669  make -j4 verbose=1
+ 1670  make 
+ 1671  make -j4 verbose=1
+ 1672  clear
+ 1673  make -j4 verbose=1
+ 1674  make clean
+ 1675  make -j4
+ 1676  make 
+ 1677  pwd
+ 1678  clear
+ 1679  cd /home/ashishroy007/pygmy-dev/tools/vtr-verilog-to-routing/libs/EXTERNAL/libcatch
+ 1680  nvim catch.hpp
+ 1681  chmod 
+ 1682  chmod +x setup.sh 
+ 1683  sudo ./setup.sh
+ 1684  which freduce
+ 1685  find . -name "*freduce*"
+ 1686  cd ./passes/sat/
+ 1687  ls
+ 1688  nvim freduce.cc
+ 1689  cd ..
+ 1690  make clean
+ 1691  make
+ 1692  make clean
+ 1693  make config-gcc
+ 1694  make -j4 install PREFIX=$INSTALL_DIR
+ 1695  cd /home/$(whoami)/pygmy-dev/tools/yosys-symbiflow-plugins
+ 1696  export PATH=$INSTALL_DIR/bin:$PATH
+ 1697  make -j4 install
+ 1698  cd /home/$(whoami)/pygmy-dev/tools/vtr-verilog-to-routing
+ 1699  make -j4
+ 1700  make
+ 1701  cd /home/ashishroy007/pygmy-dev/tools/vtr-verilog-to-routing/libs/EXTERNAL/libargparse/src/
+ 1702  nvim argparse.cpp
+ 1703  cd ..
+ 1704  cd ../cd ..
+ 1705  cd ..
+ 1706  make clean
+ 1707  make 
+ 1708  g++ --version
+ 1709  ranger
+ 1710  git clone https://github.com/paulsonashisherrala/fwc-module1
+ 1711  ranger
+ 1712  ranger
+ 1713  [200~tar -C $INSTALL_DIR -xvf arch.tar.gz
+ 1714  tar -C $INSTALL_DIR -xvf arch.tar.gz
+ 1715  export PATH="$INSTALL_DIR/quicklogic-arch-defs/bin:$INSTALL_DIR/quicklogic-arch-defs/bin/python3:$PATH"
+ 1716  cd ~/pygmy-dev/tools/quicklogic-fasm
+ 1717  nano requirements.txt
+ 1718  pip3 install -r requirements.txt
+ 1719  sudo pip3 install -r requirements.txt
+ 1720  python3 setup.py install
+ 1721  sudo python3 setup.py install
+ 1722  [200~make config-gcc
+ 1723  make config-gcc
+ 1724  make 
+ 1725  cd ~/pygmy-dev/tools/quicklogic-yosys
+ 1726  make config-gcc
+ 1727  make -j4 install PREFIX=$INSTALL_DIR
+ 1728  ranger
+ 1729  sudo apt install build-essential libssl-dev libffi-dev python3-dev bison flex git tcl-dev tcl tcl-tclreadline libreadline-dev autoconf libtool make automake texinfo pkg-config libusb-1.0-0 libusb-1.0-0-dev gcc-arm-none-eabi libnewlib-arm-none-eabi telnet python3 apt-utils libxslt-dev python3-lxml python3-simplejson cmake curl python3-setuptools python3-pip
+ 1730  cd /home/$(whoami)
+ 1731  git clone --recursive https://github.com/optimuslogic/pygmy-dev
+ 1732  mkdir -p /home/$(whoami)/symbiflow
+ 1733  export INSTALL_DIR=/home/$(whoami)/symbiflow
+ 1734  wget -O arch.tar.gz "https://iith-my.sharepoint.com/:u:/g/personal/gadepall_ee_iith_ac_in/Ebot5QHEYXBAo-7n4hnvJu0B8vMrTIdj_COHJC2cmDY1ww?e=bqDxHI"
+ 1735  ls
+ 1736  tar -C $INSTALL_DIR -xvf arch.tar.gz
+ 1737  pwd
+ 1738  tar -C $INSTALL_DIR -xvf /home/$(whoami)/arch.tar.gz
+ 1739  ls
+ 1740  tar -C $INSTALL_DIR -xvf /home/$(whoami)/arch.tar.gz --no-anchored
+ 1741  tar -C $INSTALL_DIR -xvf /home/$(whoami)/arch.tar.gz
+ 1742  ls
+ 1743  cd Downloads/
+ 1744  ls
+ 1745  /tar
+ 1746  ranger
+ 1747  exit
+ 1748  cd /home/ashishroy007/pygmy-dev/tools/vtr-verilog-to-routing/build
+ 1749  ranger
+ 1750  cd vtr-verilog-to-routing/
+ 1751  make -j4
+ 1752  ranger
+ 1753  make -j4
+ 1754  make -j4
+ 1755  sudo apt-get install libtbb-dev
+ 1756  make -j4
+ 1757  make 
+ 1758  sudo make
+ 1759  sudo make -j4
+ 1760  nvim vpr/src/base/vpr_api.cpp 
+ 1761  make -j4
+ 1762  ranger
+ 1763  nvim vpr/src/base/vpr_api.cpp 
+ 1764  make -j4
+ 1765  nvim vpr/src/base/vpr_api.cpp 
+ 1766  cd vpr/src/base
+ 1767  nvim task_scheduler_init.h
+ 1768  cd ..
+ 1769  make -j4
+ 1770  nvim vpr/src/base/vpr_api.cpp 
+ 1771  make -j4
+ 1772  cd vpr/src/base
+ 1773  nvim tbb_stddef.h
+ 1774  cd ..
+ 1775  make -j4
+ 1776  nvim vpr/src/base/tbb_config.h
+ 1777  make -j4
+ 1778  nvim vpr/src/base/mutex.h
+ 1779  nvim vpr/src/route/mutex.h
+ 1780  nvim vpr/src/route/router_lookahead_extended_map.cpp 
+ 1781  make -j4
+ 1782  nvim vpr/src/base/aligned_space.h
+ 1783  make -j4
+ 1784  nvim vpr/src/base/tbb_profiling.h
+ 1785  make -j4
+ 1786  nvim vpr/src/base/mutex.h 
+ 1787  make -j4
+ 1788  nvim vpr/src/base/mutex.h 
+ 1789  make -j4
+ 1790  nvim vpr/src/base/mutex.h 
+ 1791  make -j4
+ 1792  nvim vpr/src/base/mutex.h 
+ 1793  make -j4
+ 1794  nvim vpr/src/base/mutex.h 
+ 1795  make -j4
+ 1796  nvim vpr/src/base/mutex.h 
+ 1797  cd vtr-verilog-to-routing/
+ 1798  make -j4
+ 1799  rm -rf build
+ 1800  mkdir build
+ 1801  cd build
+ 1802  cmake ..
+ 1803  make -j4
+ 1804  sudo apt install libtbb-dev
+ 1805  cd ..
+ 1806  rm -rf build
+ 1807  mkdir build
+ 1808  cd build
+ 1809  cmake ..
+ 1810  make -j4
+ 1811  find /usr/include -name task_scheduler_init.h
+ 1812  cd ..
+ 1813  rm -rf build
+ 1814  mkdir bild
+ 1815  cd build
+ 1816  cmake -DTBB_INCLUDE_DIRS=/usr/include/tbb -DTBB_LIBRARIES=/usr/lib/x86_64-linux-gnu/libtbb.so ..
+ 1817  cd build
+ 1818  rm -rf bild
+ 1819  mkdir build
+ 1820  cd build
+ 1821  cmake -DTBB_INCLUDE_DIRS=/usr/include/tbb -DTBB_LIBRARIES=/usr/lib/x86_64-linux-gnu/libtbb.so ..
+ 1822  pwd
+ 1823  clear
+ 1824  cmake -DTBB_INCLUDE_DIRS=/usr/include/tbb -DTBB_LIBRARIES=/usr/lib/x86_64-linux-gnu/libtbb.so ..
+ 1825  make -j4
+ 1826  cd ..
+ 1827  make -j4
+ 1828  make clean
+ 1829  ls
+ 1830  ranger
+ 1831  g++ --version
+ 1832  sudo apt update
+ 1833  sudo apt install cmake g++ libboost-all-dev libtbb-dev
+ 1834  pwd
+ 1835  ranager
+ 1836  ranger
+ 1837  pwd
+ 1838  cd Desktop
+ 1839  ls
+ 1840  ranger
+ 1841  mkdir build
+ 1842  cd build
+ 1843  cmake ..
+ 1844  make -j4
+ 1845  cd ..
+ 1846  make -j4
+ 1847  make -j16
+ 1848  clear
+ 1849  make -j4
+ 1850  cd vtr-verilog-to-routing/
+ 1851  make -j4
+ 1852  cd ..'
+ 1853  make -j4
+ 1854  ranger
+ 1855  git clone https://github.com/verilog-to-routing/vtr-verilog-to-routing.git
+ 1856  ranger
+ 1857  ls
+ 1858  ranger
+ 1859  cd ..
+ 1860  git clone https://github.com/verilog-to-routing/vtr-verilog-to-routing.git
+ 1861  cd vtr-verilog-to-routing
+ 1862  mkdir build
+ 1863  cd build
+ 1864  ls
+ 1865  pkg install cmake
+ 1866  sudo apt update
+ 1867  sudo apt install cmake g++ make
+ 1868  sudo apt install libboost-all-dev
+ 1869  sudo apt install libgmp-dev
+ 1870  sudo apt install libreadline-dev
+ 1871  cd ..
+ 1872  git clone https://github.com/verilog-to-routing/vtr-verilog-to-routing.git
+ 1873  ranger
+ 1874  make clean
+ 1875  mkdir build
+ 1876  cd build
+ 1877  cmake -DCMAKE_BUILD_TYPE=Release ..
+ 1878  make -j4
+ 1879  make 
+ 1880  clear
+ 1881  make -j4
+ 1882  cd ..
+ 1883  make -j4
+ 1884  make clean
+ 1885  make -j4
+ 1886  make
+ 1887  history
+ 1888  make 
+ 1889  make -j4
+ 1890  cd ..
+ 1891  ranger
+ 1892  cd ..
+ 1893  cd ashishroy007/Desktop/fwc-module1/
+ 1894  git add .
+ 1895  git pull
+ 1896  git commit -m "updated scripts"
+ 1897  git push
+ 1898  ranger
+ 1899  make 
+ 1900  make -j4
+ 1901  chmod +x setup.sh 
+ 1902  sudo ./setup.sh
+ 1903  ranger
+ 1904  ls
+ 1905  ranger
+ 1906  find /usr/include -name tbb_stddef.h
+ 1907  cat /usr/include -name tbb_stddef.h
+ 1908  cat /usr/include/tbb/tbb_stddef.h
+ 1909  find /usr/include/tbb/oneapi/tbb.h
+ 1910  cat /usr/include/tbb/oneapi/tbb.h
+ 1911  cat /usr/include/tbb/task.h
+ 1912  cd /usr/include/tbb/oneapi/tbb.h
+ 1913  cd /usr/include/tbb/oneapi/
+ 1914  cd ..
+ 1915  ls
+ 1916  cd usr
+ 1917  cd include/tbb/oneapi
+ 1918  cd include/tbb/
+ 1919  ranger
+ 1920  chmod +x root
+ 1921  ls -a 
+ 1922  sudo cd root
+ 1923  chmod +x setup.sh
+ 1924  sudo ./setup.sh
+ 1925  ranger
+ 1926  ls
+ 1927  sudo rm -rf symbiflow
+ 1928  ls
+ 1929  sudo rm -rf fpga-examples
+ 1930  ls
+ 1931  ranger
+ 1932  ls -a
+ 1933  ls
+ 1934  sudo rm -rf tools
+ 1935  ls
+ 1936  cd ..
+ 1937  sudo rm -rf pygmy-dev/
+ 1938  sudo rm -rf pygmy-dev
+ 1939  la
+ 1940  ranger
+ 1941  vpr -h
+ 1942  ranger
+ 1943  sudo -i
+ 1944  sudo find / -name "fpga"
+ 1945  gcc main.c -o main -lm
+ 1946  ./main
+ 1947  gcc main.c 
+ 1948  ./a.out
+ 1949  clang main.c
+ 1950  ./a.out
+ 1951  rm a.out
+ 1952  ls
+ 1953  clang main.c
+ 1954  ls
+ 1955  ./a.out
+ 1956  ranger
+ 1957  ranger
+ 1958  gcc slide_attack.c -o slide -lm
+ 1959  ./slide
+ 1960  ranger
+ 1961  ubuntu --version
+ 1962  whoami 
+ 1963  lsb_release -a
+ 1964  sudo apt update && sudo apt full-upgrade
+ 1965  do-release-upgrade
+ 1966  clear
+ 1967  sudo apt install dolb
+ 1968  sudo apt install dolby
+ 1969  sudo apt update
+ 1970  sudo apt install pulseaudio
+ 1971  ./pulseaudio
+ 1972  pulseaudio --check
+ 1973  sudo apt install easyeffects
+ 1974  sudo add-apt-repository ppa:easyeffects-team/easyeffects
+ 1975  sudo apt update
+ 1976  sudo apt install easyeffects
+ 1977  git clone https://github.com/adgsenpai/LinuxSoundUpgrade
+ 1978  vim setup.sh 
+ 1979  cd
+ 1980  vim setup.sh 
+ 1981  cd
+ 1982  ls
+ 1983  cd Desktop/fwc-module1/scripts/
+ 1984  vim setup.sh 
+ 1985  ./setup.sh 
+ 1986  vim setup.sh 
+ 1987  ./setup.sh 
+ 1988  ls
+ 1989  cd
+ 1990  ls
+ 1991  cd Desktop/fwc-module1/scripts/
+ 1992  vim setup.sh 
+ 1993  ./setup.sh 
+ 1994  vim setup.sh 
+ 1995  ./setup.sh 
+ 1996  sudo apt install libtbb2-dev
+ 1997  sudo apt autoremove
+ 1998  sudo apt purge
+ 1999* clea
+ 2000  sudo apt clean
+ 2001  clear
+ 2002  ./setup.sh 
+ 2003  clear
+ 2004  ./setup.sh 
+ 2005  clear
+ 2006  ./setup.sh 
+ 2007  vpr
+ 2008  yosys
+ 2009  yosys -h
+ 2010  fasm -g
+ 2011  fasm -h
+ 2012  man find
+ 2013  df
+ 2014  history
+ 2015  history >> history1.txt
